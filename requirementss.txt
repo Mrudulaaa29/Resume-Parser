@@ -1,5 +1,0 @@
-Flask
-pdf2image
-pytesseract
-Pillow
-PyPDF2
