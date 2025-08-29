@@ -29,7 +29,8 @@ created with <3 by Mrudula Kalyankar !
 
 Screenshots:
 
-<img width="879" height="588" alt="Screenshot 2025-08-29 233014" src="https://github.com/user-attachments/assets/76a7a3e8-61a8-4454-9bfe-5cb920bb8b32" />
+<img width="1361" height="637" alt="Screenshot 2025-08-29 232631" src="https://github.com/user-attachments/assets/2aa7c9e4-1421-4a24-b046-f0c974bb944f" />
+
 
 
 <img width="1346" height="679" alt="Screenshot 2025-08-29 233041" src="https://github.com/user-attachments/assets/3929b0ed-6413-4dde-9b45-0b4484260606" />
