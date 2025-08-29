@@ -26,8 +26,12 @@ git clone https://github.com/Mrudulaaa29/Resume-Parser.git
 cd Resume-Parser
 ```
 created with <3 by Mrudula Kalyankar !
+
 Screenshots:
+
 <img width="879" height="588" alt="Screenshot 2025-08-29 233014" src="https://github.com/user-attachments/assets/76a7a3e8-61a8-4454-9bfe-5cb920bb8b32" />
+
+
 <img width="1346" height="679" alt="Screenshot 2025-08-29 233041" src="https://github.com/user-attachments/assets/3929b0ed-6413-4dde-9b45-0b4484260606" />
 
 
