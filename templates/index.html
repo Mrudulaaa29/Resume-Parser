@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Resume Parser - Upload</title>
+</head>
+<body style="background: linear-gradient(to right, #00c6ff, #0072ff); color: white; font-family: Arial, sans-serif; text-align: center; padding: 50px;">
+  
+  <h1>Upload Resume (PDF / DOCX)</h1>
+  <form action="/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" accept=".pdf,.docx" required>
+    <button type="submit">Upload & Parse</button>
+  </form>
+  <p><a href="/resumes" style="color: yellow;">View saved resumes</a></p>
+
+</body>
+</html>

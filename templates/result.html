@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Parsed Result</title>
+</head>
+<body style="background: linear-gradient(to right, #1e3c72, #2a5298); color: white; font-family: Arial, sans-serif; padding: 30px;">
+  
+  <h1 style="text-align: center;">Parsed Result — {{ filename }}</h1>
+
+  <h3>Detected Name</h3>
+  <p>{{ name or "—" }}</p>
+
+  <h3>Contact</h3>
+  <p><strong>Email:</strong> {{ email or "—" }}<br>
+     <strong>Phone:</strong> {{ phone or "—" }}</p>
+
+  <h3>Skills</h3>
+  <p>{{ skills or "—" }}</p>
+
+  <h3>Auto Summary</h3>
+  <p>{{ summary or "—" }}</p>
+
+  <h3>Full Extracted Text</h3>
+  <pre style="white-space: pre-wrap; border:1px solid #ddd; padding:10px; background:white; color:black; border-radius: 8px;">
+    {{ text }}
+  </pre>
+
+  <p style="text-align:center;">
+    <a href="/" style="color: yellow; text-decoration:none; margin-right:20px;">Upload another</a> 
+    <a href="/resumes" style="color: yellow; text-decoration:none;">View all saved</a>
+  </p>
+  
+</body>
+</html>
