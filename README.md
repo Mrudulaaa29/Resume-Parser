@@ -22,7 +22,7 @@ It allows users to upload resumes (PDF/Image), extracts important details, and s
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Resume-Parser.git
+git clone https://github.com/Mrudulaaa29/Resume-Parser.git
 cd Resume-Parser
 ```
 created with <3 by Mrudula Kalyankar !
